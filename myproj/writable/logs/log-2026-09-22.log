@@ -1,0 +1,20 @@
+CRITICAL - 2026-09-22 12:22:06 --> ErrorException: Cannot declare class App\Controllers\Customers, because the name is already in use
+[Method: GET, Route: about]
+in APPPATH\Controllers\Pages.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-22 12:22:20 --> ErrorException: Cannot declare class App\Controllers\Customers, because the name is already in use
+[Method: GET, Route: about]
+in APPPATH\Controllers\Pages.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-22 12:25:37 --> ErrorException: Cannot declare class App\Controllers\Customers, because the name is already in use
+[Method: GET, Route: about]
+in APPPATH\Controllers\Pages.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-22 12:28:25 --> ErrorException: Cannot declare class App\Controllers\Customers, because the name is already in use
+[Method: GET, Route: about]
+in APPPATH\Controllers\Pages.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2026-09-22 12:29:13 --> ErrorException: Cannot declare class App\Controllers\Customers, because the name is already in use
+[Method: GET, Route: about]
+in APPPATH\Controllers\Pages.php on line 5.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
